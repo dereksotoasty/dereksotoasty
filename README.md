@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dereksotoasty
 - 👀 I’m interested in most things
 - 🌱 I’m constantly learning 
-- 💞️ I’m looking to collaborate on prettymuch anything
+- 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me @dereksotoasty on insta
 
 <!---
