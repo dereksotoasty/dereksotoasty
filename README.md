@@ -2,7 +2,7 @@
 - 👀 I’m interested in most things
 - 🌱 I’m constantly learning 
 - 💞️ I’m looking to collaborate on pretty much anything
-- 📫 How to reach me @dereksotoasty on insta
+- 📫 How to reach me @dereksotoasty on Instagram
 
 <!---
 dereksotoasty/dereksotoasty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
